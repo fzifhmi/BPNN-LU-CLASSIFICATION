@@ -4,4 +4,5 @@ GEPJ222111
 MAGISTER PENGINDERAAN JAUH
 UNIVERSITAS GADJAH MADA
 
-(https://github.com/fzifhmi/BPNN-LU-CLASSIFICATION/blob/main/output/Hasil%20Klasifikasi.png?raw=true)
+![Hasil Klasifikasi](https://github.com/username/repository/blob/main/output/Hasil%20Klasifikasi.png?raw=true)
+
